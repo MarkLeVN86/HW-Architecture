@@ -9,5 +9,5 @@ Of course, at SOC verification level as usual I use C/C++.
 By referring to this projects, you will know how to build an SOC with some basic IPs and Peripherals.
 Also how to construct the UVM environment from scratch.
 
-BR, Mark Le
-K1 Research Semiconductor.
+Best REGARD, Mark
+
